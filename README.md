@@ -8,4 +8,4 @@ Welcome to my GitHub! I'm passionate about building seamless web applications an
 - **Back-end**: Node.js, Python
 - **Databases**: MongoDB, PostgreSQL, MySQL
 
-Let's connect and collaborate on exciting projects! Reach out via [Twitter](https://twitter.com/AkeaKun) or email me at code.akeakun@gmail.com. Let's code, deploy, and make an impact together!
+Got an exciting project we can work on? Reach out via [Twitter](https://twitter.com/AkeaKun) or email me at code.akeakun@gmail.com. Don't dissapoint me now 🐈
