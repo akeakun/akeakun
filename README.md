@@ -10,4 +10,7 @@ Welcome to my GitHub! I'm passionate about building seamless web applications an
 
 FYI: Ik how to use icons here. didn't coz it looks messy.
 
+
+Currently busy with: (https://backend.codecrafters.io/progress/http-server/36cdeb92-5f6e-46fe-b3ea-ea078dc1be55)
+
 Got an exciting project we can work on? Reach out via [Twitter](https://twitter.com/AkeaKun) or email me at code.akeakun@gmail.com. Don't dissapoint me now 🐈
